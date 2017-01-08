@@ -1,0 +1,340 @@
+Numéro;Matière (s) Active (s);Famille Chimique;Classe;Culture;indice GUS final;Coefficient d'adsorption (Koc);hydrolyse half-life (days);Solubilité (mg/L);"DT50 champ
+(jours)";Hydrolyse à pH 7;"CL50 poisson
+(mg.L-1)";CI50 daphnie (mg.L-1);CE50 algues (mg.L-1);CL50 min;DL50 Derm. Mg/kg;DL50 Oral Mg/kg;DJA mg/kg/jour;Classem  OMS;DAR (jour);Numéro Homologation;Nom Commercial;Formulation;Tableau Tox.;Teneur;Type de traitement;Dose PC
+1;2,4-D;Aryloxyacide;Herbicide;Céréales;3,719;46,000;39,00;27600,0000;9,9;très stable;100;100;24,2;24,2;> 1600;375;0.3;II;-;E11-9-030;CALIDICOTE;SL;C;720 g/l;Parties aériennes;0,6 l/ha
+2;2,4-DB;Aryloxyacide;Herbicide;Céréales;1,986;224,000;16,00;4385,0000;15,6;très stable;3,5;25;1,1;1,1;;370 - 700;0,02;III;-;E06-5-001;DIALEN >ER 464 SL;SL;C;(344 + 120)g/l;Désherbage;0,75 l/ha
+3;2,4-D + MCPA;Aryloxyacide;Herbicide;Céréales;2,506;74,000;15,00;29390,0000;25,0;stable;50;190;32,9;32,9;> 1000;700;0,013;III;-;E11-8-069;HORMA;SL;C;(275 + 275)g/l;Désherbage;1 l/ha
+4;Abamectine;Aryloxyacide;"Insecticide-
+Acaricide";Fraisier, melon,  culture maraichères, agrume et plante aromatique;0,443;5638,000;;1,2100;7,0;stable;4,3;55;37;4,3;> 2000;10;0.0002;III;14 j;F11-0-053;ABAMEC;EC;A;18 g/l;Parties aériennes;50 cc/hl
+5;Acequinocyl;;Acaricide;Nectarier et pommier;-0,300;100666,000;2,00;0,0070;;;;;;;> 2000;5000;;;-;E04-4-002;KANEMITE SC 15%;SC;C;15%;Parties aériennes;150 cc/hl
+6;Ac Naphtylacétique;Biopesticide;Régulateur de croissance;;2,266;385,000;40,00;420,0000;10,0;;28;180;63,2;28;> 5000;1000 - 1500;;III;;;;;C;;;
+7;Acéphate;Organophosphoré;Insecticide;Agrumes, arbres fruitiers, betterave et maraichage;1,140;40,300;3,00;790000,0000;3,0;stable;110;67,2;980;67,2;> 2000;945;0.003;III;15 j;;;;C;;;700g/l
+8;Acetamipride;Néonicotinoide;Insecticide;Agrumes, pommier et tomate;0,400;106,500;1,60;2950,0000;2,9;très stable;100;49,8;98,3;49,8;> 2000;217;0,07;;-;D03-9-005;MOSPILAN 20 SL;SL;C;20%;Parties aériennes;2 cc/hl
+9;Acétochlore;Chloroacetamide;Herbicide;Mais;2,071;156,000;14,00;282,0000;13,0;stable;0,36;8,4;0,00099;0,00099;4166;2148;0.01;III;;;;;;;;
+10;Acide gibbérellique (GA3);;Régulateur de croissance;"Agrumes, vigne;, pomme de terre";3,438;10,000;14,00;40000,0000;;;;;;;;> 15000;;IV;NR;E01-4-006;ACCEL;SP;N;20%;Parties aériennes;1 g/hl
+11;Acrinathrine;Pyréthrinoïde;"Insecticide-
+Acaricide";Fraisier, pecher, poirier et vigne;-1,173;48231,000;52,00;0,0020;52,0;stable;5,66;0,57;0,82;0,57;> 2000;> 5000;0.02;III;21 j;D02-7-002;ORYTIS EW 7,5;EW;C;75 g/l;Parties aériennes;60 cc/hl
+12;Alachlore;Chloroacetamide;Herbicide;;2,781;131,000;30,00;200,0000;14,0;instable;1,8;10;0,966;0,966;13300;930;0,01;III;;;;;C;;;
+13;Alanycarbe;;Insecticide;Agrumes;;20,000;;20,0000;;;;;;;> 2000;440;;II;-;D04-7-001;OKAY 100 EC;EC;A;100 g/l;Parties aériennes;150 cc/hl
+14;Aldicarbe;Carbamate;Nématicide;;0,960;30,000;2,40;4930,0000;46,8;très stable;0,145;0,209;42,4;0,145;20;0.93;0.001;;50 J;;;;;;;
+15;Alpha-Cyperméthrine;;Insecticide;Betterave à sucre, tomate, melon, pomier et pastèque;-1,530;57889,000;100,00;0,0040;;;;;;;> 500;79;;II;21 j;E02-7-021;ALPHATAC;EC;C;100 g/l;Parties aériennes;100 cc/ha
+16;Alphaméthrine;Pyréthrinoïde;Herbicide;;-1,528;57889,000;101,00;0,0040;35,0;très stable;0,0028;0,0003;0,1;0,0003;;66;0,015;III;;;;;;;;
+17;Aminotriazole;Triazole;Herbicide;;2,562;91,000;;148000,0000;18,0;très stable;1000;6,1;2,3;2,3;> 10000;5000;0.00003;IV;;;;;;;;
+18;Amitraz;Amidine;Acaricide;Poirier;-0,700;1000,000;0,20;0,1000;1,0;instable;0,74;0,035;12;0,035;> 200;800;0.003;III;35 j;E04-4-004;BYEBYE 200 EC;EC;C;200 g/l;Parties aériennes;250 cc/hl
+19;Atrazine;Triazine;Herbicide;;3,200;174,000;66,00;35,0000;29,0;très stable;4,5;85;0,059;0,059;7500;2000;0.005;III;;;;;C;;;
+20;Azaconazole;Triazole;Fongicide;;;;;300,0000;;stable;18;86;;18;> 2560;308;0.03;II;;;;;B;;;
+21;Azadirachtine;;Insecticide;Agrume et maraichage;1,406;381,300;;2900,0000;;;;;;;> 2000;5000;;III;3 j;E07-9-005;NEEMAZAL-T/S;EC;C;10 g/l;Parties aériennes;300 cc/hl
+22;Azinphos-méthyl;Organophosphoré;Insecticide;Betterave à sucre, arboriculture et vigne;1,348;882,000;19,00;28,0000;29,0;stable;0,071;0,0011;0,00715;0,0011;220;16;0.0025;1b;30 j;B09-7-008;AZINKOTHION WP 25;WP;A;25%;Parties aériennes;200 g/hl
+23;Azocyclotin;Organostannane;Acaricide;;0,500;4450,000;27,00;0,0400;26,5;instable;0,004;0,04;0,16;0,004;> 1000;80;0.003;II;;;;;B;;;
+24;Azoxystrobine;Strobilurine;Fongicide;Céréales, maraichage, plante aromatique, fraisier et vigne;2,532;581,000;112,00;6,0000;21,0;très stable;0,47;0,13;0,36;0,13;> 5000;> 2000;0,2;III;14 j;D02-8-001;AMISTAR SC;SC;C;250 g/l;Parties aériennes;0,8 l/ha
+25;Bacillus subtilis;;Fongicide;Tomate, vigne et fraisier;;;;insoluble;;;;;;;;5050;;III;NR;E11-9-004;COMPANION;LC;C;"0,03 g/l
+(1,5x107^
+cfu/ml)";Traitement des sols;5 l/ha (Micro-irrigation)
+26;Bénalaxyl + Cuivre;Amide;Fongicide;Betterave à sucre, maraichage, vigne et arboriculture;0,560;4998,000;365,00;28,0000;54,0;très stable;3,75;0,59;2,4;0,59;> 5000;4200;0,1;III;-;E06-3-018;TAIREL C4-33;WP;C;(4 + 33)%;Parties aériennes;600 g/hl
+27;Bénomyl;Benzimidazole;Fongicide;;-0,070;1900,000;0,80;2,0000;67,0;instable;0,17;0,28;2;0,17;> 10000;> 10000;0,02;IV;;;;;;;;
+28;Bentazone;Thiadiazinone;Herbicide;Haricot et luzerne;2,554;51,000;13,00;570,0000;10,0;stable;100;64;10,1;10,1;> 2500;1100;0,1;III;-;B11-8-003;BASAGRAN;EC;C;480 g/l;Désherbage;3 l/ha
+29;Beta-cyfluthrine;Pyréthrinoïde;Insecticide;Betterave à sucre, pommier et tomate;-1,885;64300,000;215,00;0,0066;13,0;très stable;0,000068;0,00029;10;0,000068;> 2500;380;0,1;II;21 j;E02-3-002;BULLDOCK O25;SC;C;25 g/l;Parties aériennes;150 cc/ha
+30;Bifenazate;Hydrazine carboxylate;Acaricide;Agrumes, arboriculture, maraichage et betterave;-0,230;368,000;0,69;2,0600;5,8;instable;0,58;0,5;0,2;0,2;> 5000;> 5000;0,01;;28 j;E02-9-026;ACRAMITE 480 SC;SC;C;480 g/l;Parties aériennes;50 cc/hl
+31;Bifenthrine;Pyréthrinoïde;"Insecticide-
+Acaricide";Agrumes, arboriculture, et maraichage;-2,719;237000,000;95,00;0,1000;34,5;instable;0,00015;0,00011;10;0,00011;> 2000;54,5;0,02;II;3 j;E02-7-018;BISECT;EC;C;100 g/l;Parties aériennes;40 cc/hl
+32;Bitertanol;Triazole;Fongicide;Arboriculture et rosier;0,570;2461,000;8,50;3,8000;23,0;très stable;2,1;2,79;0,31;0,31;> 5000;> 5000;0,003;III;30 j;B01-3-001;BAYCOR 25 WP;WP;C;25%;Parties aériennes;75 g/hl
+33;Boscalid;Amide;Fongicide;Céréales, maraichage, laitue, plantes aromatique, fraisier, melon et vigne;1,643;772,000;30,00;5,0000;200,0;très stable;2,7;5,33;1,34;1,34;;> 5000;0,04;;;;;;;;;
+34;Brodifacoum;Antivitamine K;Rodenticide;Locaux de stockage et parcours;-1,032;50000,000;30,00;0,0038;157,0;stable;0,051;0,89;;0,051;200;0,3;0,00004;;-;E05-8-018;BRODITOP PELLET;GB;A;0,005%;Dératisation;"50-100 g/poste
+d'appâtage"
+35;Bromacile;Uracile;Herbicide;;3,440;117,000;60,00;815,0000;147,5;stable;71;119;0,013;0,013;> 5000;5200;0,13;III;;;;;;;;
+36;Bromopropylate;Diphényl;Acaricide;;0,350;6309,000;59,00;0,1000;59,0;très stable;0,35;0,17;52;0,17;> 4000;> 5000;0,01;III;;;;;;;;
+37;Bromoxynil;Phenylamide;Herbicide;;-0,340;192,000;0,63;38000,0000;80,0;très stable;;;;;> 2000;190;0,01;II;;;;;;;;
+38;Bromoconazole;Benzothiazolone;Fongicide;;1,565;872,000;30,00;36,5000;21,0;stable;27;233,4;16;16;> 2000;365;0,025;II;;;;;;;;
+39;Bromure de méthyle;Organochloré;Fumigant;Maraichage, arboriculture et désinfection de sol;4,625;22,000;12,00;11600,0000;55,0;instable;3,9;2,6;3,2;2,6;;;0,001;;;;;GA;A;(98 + 2)%;"Traitement des
+denrées stockées";"3
+18-100 g/m"
+40;Bupirimate;Pyrimidine;Fongicide;Arboriculture, maraichage et bananier;1,470;1882,000;107,00;13,0600;63,0;stable;1;7,3;50;1;500;4000;0,05;III;-;A03-6-028;NIMROD 25 EC;EC;C;250 g/l;Parties aériennes;60 cc/hl
+41;Buprofézine;Thiadiazine;Insecticide;Agrumes et tomate;0,580;5334,000;135,40;0,4600;80,0;stable;0,33;0,42;2,1;0,33;> 5000;2198;0,01;III;7 j;E04-1-001;APPLAUD 25 SC;SC;C;250 g/l;Parties aériennes;150 cc/hl
+42;Butocarboxime;;Insecticide;;4,870;10,000;42,00;209000,0000;;;;;;;360;158;0,02;1b;;;;;;;;
+43;Cadusafos;Organothiophosphate;Nématicide;Bananier, tomate;2,880;227,000;56,70;245,0000;36,2;très stable;130;0,231;4300;0,231;360;158;0,02;1b;7 j;D05-0-002;RUGBY 10 G;MG;A;10%;Traitement des sols;40 kg/ha
+44;Captafol;;Fongicide;;1,110;2000,000;39,00;1,4000;;;;;;;> 15400;5000;;;;;;;;;;
+45;Captane;Dicarboximide;Fongicide;Maraichage, olivier, arboriculture et vigne;-0,165;200,000;0,80;5,2000;3,8;instable;0,098;5,2;1,6;0,098;> 4500;9000;0,01;III;30 j;D10-4-002;CAPTANE 50 WP;WP;C;50%;Parties aériennes;300 g/hl
+46;Carbaryl;Carbamate;Insecticide;Olivier et arboriculture;2,018;211,000;16,00;9,1000;25,8;instable;2,6;0,0064;0,7;0,0064;> 4000;850;0,008;II;15 j;526;SEVIN 85 WP;WP;C;85%;Parties aériennes;150 g/hl
+47;Carbendazime;Carbamate;Fongicide;Arboriculture, tomate, céréale et vigne;2,530;225,000;34,30;8,0000;18,0;très stable;0,44;0,15;8;0,15;10000;15000;0,03;III;15 j;E02-9-007;CROPZIM 500 SC;SC;C;500 g/l;Parties aériennes;60 cc/hl
+48;Carbofuran;Carbamate;Insecticide;Betterave à sucre et tomate;2,284;86,500;12,80;322,0000;20,8;stable;0,18;0,0094;6,5;0,0094;2550;8;0,002;1b;-;E04-6-003;AXLERA 5G;MG;A;5%;Traitement des sols;20 kg/ha
+49;Carbosulfan;Carbamate;Insecticide;;0,990;2113,000;29,20;0,1100;7,8;instable;0,015;0,0015;20;0,0015;> 2000;250;0,01;II;;;;;;;;
+50;Carboxine (DCMO);Amide;Fongicide;Céréales: semences;-2,150;1,300;0,28;142,0000;3,0;très stable;1,2;84,4;0,48;0,48;> 4000;3820;0,01;III;NR;B02-8-001;VITAVAX 200 FF;EC;C;(17 + 17)%;"Traitement des
+semences";200 cc/ql
+51;Carfentrazone-éthyle;Triazolinone;Herbicide;;0,000;486,040;1,00;29,3000;0,5;instable;1,6;9,8;0,012;0,012;> 4000;5143;0,03;III;;;;;;;;
+52;Chinométhionate;Dithiocarbamate;Acaricide, Fongicide;;0,730;38,000;0,80;1,0000;30,0;instable;0,0334;0,12;0,0069;0,0069;> 500;2500;0,006;III;;;;;;;;
+53;Chloranthraniliprole;Anthranilic diamide ;Insecticide;Agrume, céréale et maraichage;4,223;301,000;597,00;0,8800;237,0;instable;;;;;> 500;2500;0,006;III;7 j;E12-9-001;CORAGEN;SC;C;200 g/l;Parties aériennes;15 cc/hl
+54;Chloridazone;Pyridazinone;Herbicide;;2,780;199,000;43,10;422,0000;36,5;très stable;19,9;10;0,97;0,97;> 2500;2420;0,16;III;;;;;;;;
+55;Chlormequat chlorure (CCC);Ammonium quaternaire;"Régulateur de
+croissance";Céréales: Blés;2,566;132,000;23,20;886000,0000;14,5;stable;1000;16,9;5656;16,9;> 4000;966;0,05;III;90 j;E02-9-021;BELCOCEL;SL;C;460 g/l;Régulation;2 l/ha
+56;Chlorprophame;Carbamate;Herbicide;Pomme de terre;1,190;418,000;7,30;110,0000;25,0;très stable;5,3;2,6;1;1;> 2000;4200;0,1;III;;;;;;;;
+57;Chlorpyriphos-éthyl;Organophosphoré;Insecticide;Agrumes, betterave à sucre, maraichage, arboriculture et mais;0,010;9930,000;2118,00;1,1800;18,7;très stable;0,00054;0,000014;0,027;0,000014;2000;135;0,01;II;45 j;F03-0-015;BONANZA 450 EW;EW;C;450 g/l;Parties aériennes;160 cc/hl
+58;Chlorpyriphos-méthyl;Organophosphoré;Insecticide;Locaux de stockage, agrume, melon, poivron et tomate;0,170;4645,000;21,00;2,7400;3,0;stable;0,41;0,00062;0,54;0,00062;> 2000;> 3000;0,01;III;NR;D11-5-001;RELDAN 40 EC;EC;A;400 g/l;Traitement des locaux de stockage;125 cc/5 l/100 m²
+59;Chlozolinate;Oxazolidine;Fongicide;;0,280;1150,000;2,00;32,0000;0,4;;27,5;1,18;30;1,18;> 5000;> 4500;0,1;III;;;;;;;;
+60;Chromazfenozide;;Insecticide;Maïs, pommier, haricot vert et tomate;3,096;346,800;132,00;0,8000;;;;;;;> 2000;> 5000;0,27;;30 j;E02-3-001;MATRIC 5 SC;SC;C;5%;Parties aériennes;75 cc/hl
+61;Cléthodime;Cyclohexanedione;Herbicide;Betterave à sucre;-0,686;22,700;0,55;5450,0000;2,0;très stable;3,4;5,1;1,5;1,5;> 5000;1630;0,01;III;60 j;E05-8-011;AKODIM;EC;C;120 g/l;Désherbage;1 l/ha
+62;Clodianafop-propargyl;Aryloxyacide;Herbicide;Blés et triticale;-0,081;1446,000;0,80;4,0000;12,5;instable;0,21;0,37;1,6;0,21;> 2000;1826;0,004;III;75 j;E11-8-056;BRUMBY 80 EC;EC;C;80 g/l;Désherbage;0,75 l/ha
+63;Clofentézine;Tetrazine;Acaricide;;0,151;1064,000;1,43;0,0020;131,0;instable;0,0008;0,0146;0,032;0,0008;> 1332;3200;0,02;IV;;;;;;;;
+64;Clodianafop-méxyl (Safener);;Herbicide;Blés et triticale;-0,262;13257,000;139,00;0,5900;;;;;;;> 2000;> 2000;0,04;III;75 j;E11-9-083;TALLIS 240 EC;EC;C;240 g/l;Désherbage;0,25 l/ha
+65;Cuivre;Amide;Fongicide;Arbres fruitiers, maraichage, olivier et vigne;3,921;295,000;365,00;3,0000;23,5;instable;100;81;128;81;> 3160;489;0,02;III;15 j;B06-7-009;CUIVROL 50% WP;WP;C;50%;Parties aériennes;500 g/hl
+66;Cuivre -hydroxyde de cuivre;Vitamine D;Fongicide;Arbres fruitiers, maraichage, olivier et vigne;-0,317;12000,000;10000,00;2,9000;;stable;;;;;> 3160;489;;III;15 j;D10-5-003;BLEUE SHIELD WP;WP;C;50% -[77%];Parties aériennes;500 g/hl
+67;Cuivre -oxychlorure de cuivre;Minéral;Fongicide;Arbres fruitiers, agrume, maraichage, olivier et vigne;0,015;12000,000;;0,0000;5000,0;stable;0,016;0,408;;0,016;> 2000;700;0,15;III;15 j;485;COBOX;WP;C;50% -[80%];Parties aériennes;500 g/hl
+68;Cuivre -sulfate de cuivre;Minéral;Fongicide;Arbres fruitiers, agrume, maraichage, olivier et vigne;0,090;9500,000;10000,00;3,4200;10000,0;stable;;;;;848;223;0,01;;15 j;E03-2-004;BORDEAUX CAFFARO;WP;C;20% -[80%];"Parties aériennes
+(badigeonnage)";1,25 kg/5 l
+69;Cyanamid Hydrogène;;"Régulateur de
+croissance";Pommier et vigne;0,224;293,000;1,40;560000,0000;3,5;très stable;88;0,21;13,2;0,21;848;223;0,01;;-;D09-3-002;DORMEX;SL;A;49%;Régulation;3 l/hl
+70;Cyantraniliprole;;;;2,634;193,000;34,40;14,2000;;;;;;;> 5000;> 2250;;;;;;;;;;
+71;Cycloxydime;Cyclohexanedione;Herbicide;Arbres fruitiers, agrume, maraichage, olivier et vigne;-0,420;59,000;172,00;52,0000;5,0;très stable;100;241,5;32;32;> 2000;3940;0,06;III;28 j;D10-1-001;FOCUS ULTRA;EC;C;100 g/l;Désherbage;2 l/ha et 4-6 l/ha
+72;Cyfluthrine;Pyréthrinoïde;Insecticide;;-1,870;123930,000;51,00;0,0066;33,0;très stable;0,00047;0,00016;10;0,00016;> 5000;84;0,2;1b;;;;;;;;
+73;Cyhalofop butyl;Aryloxyester;Herbicide;Riz;-0,196;1016,000;0,20;0,4400;;très stable;0,789;2,7;0,96;0,789;> 2000;> 5000;0,003;IV;-;D05-9-001;CLINCHER;EC;C;200 g/l;Désherbage;1 l/ha
+74;Cyhéxatin;Organostannane;Acaricide;Arbres fruitiers, melon et tomate;0,610;4365,000;50,00;1,0000;50,0;stable;0,004;0,0002;;0,0002;> 2000;540;0,007;III;30 j;B03-1-005;AKABAR PM 25;WP;C;25%;Parties aériennes;100 g/hl
+75;Cymoxanil ;Cyanoacetamide oxime;Fongicide;Maraichage et vigne;0,340;43,600;1,40;514,0000;7,5;instable;13,5;27;1,21;1,21;> 2000;1425;0,05;III;15 j;E04-6-017;CURZATE R;WG;C;(4,2 + 39,75)%;Parties aériennes;2 kg/ha
+76;Cyperméthrine;Pyréthrinoïde;Insecticide;Maraichage, betterave à sucre, cotonnier;-2,190;156250,000;68,00;0,0090;106,5;très stable;0,0028;0,0003;0,1;0,0003;> 2400;250;0,05;II;15 j;D12-8-006;AFRISECT 10;EC;C;100 g/l;Parties aériennes;250 cc/ha
+77;Cyproconazole ;Triazole;Fongicide;Céréales;3,097;364,000;142,00;93,0000;48,5;très stable;7,2;26;0,077;0,077;> 2000;1020;0,01;II;42 j;F03-0-014;CHEROKEE 487,5 SE;SE;C;"(50 + 62,5 +
+375)g/l";Parties aériennes;1,5 l/ha
+78;Cyprodinil;Pyrimidine;Fongicide;Pommier et vigne;1,108;2277,000;53,00;13,0000;44,7;très stable;2,17;0,033;2,11;0,033;> 2000;1020;0,035;II;-;E02-7-003;CHORUS 50 WG;WG;C;50%;Parties aériennes;500 g/ha
+79;Cyromazine;Triazine;Insecticide;Aubergine, courgette, laitue, tomate et plante aromatique;2,018;756,000;28,00;11600,0000;9,7;instable;100;9,1;;9,1;> 3100;3387;0,02;III;7 j;D11-5-004;TRIGARD 100 SL;SL;C;100 g/l;Parties aériennes;1 l/ha
+80;Dazomet;Tetrahydrothiadiazinethione;"Nématicide-
+Désinfectant";Sols nus;-0,450;260,000;0,52;3500,0000;1,2;instable;0,16;0,3;1,08;0,16;> 2000;640;0,01;III;-;975;BASAMID;MG;C;97%;Traitement des sols;500 kg/ha
+81;Deltaméthrine;Pyréthrinoïde;Insecticide;Toutes cultures;-4,259;10240000,000;26,00;0,0002;21,0;instable;0,00026;0,00056;10;0,00026;> 2000;135;0,01;II;7 j;F11-0-061;AMIRAL 28 EC;EC;C;28 g/l;Parties aériennes;300 cc/ha
+82;Desmédiphane;Carbamate;Herbicide;;-0,021;10541,000;1,00;7,0000;7,5;instable;0,25;0,45;0,01;0,01;4000;5000;0,001;III;;;;;;;;
+83;Diazinon;Organophosphoré;Insecticide;Bananier, mais, maraichage et betterave à sucre;1,140;643,000;9,10;60,0000;18,4;très stable;0,27;0,00096;6,4;0,00096;540;300;0,002;II;-;1066;BASUDINE 10 G;GR;C;10%;Traitement des sols;10-5 kg/ha
+84;Dicamba;Acide carboxylique;Herbicide;Céréales d'automne;1,751;12,360;4,00;250000,0000;14,0;stable;135;111;107;107;> 2000;1707;0,02;III;-;E11-0-001;LINTUR 70 WG;WG;C;65,90%;Désherbage;150 g/ha
+85;Dichlorofluanide;Sulfamide;Fongicide;;0,380;1100,000;2,50;1,3000;3,5;instable;0,01;0,42;1;0,01;> 5000;500;0,2;IV;;;;;;;;
+86;Dichlormide (Sefener);;phytoprotecteur;;2,199;36,750;8,00;729,0000;8,0;très stable;141;161;33;33;> 2000;2816;0,01;III;;;;;;;;
+87;Dichloropropène ;Aryloxyacide;Fumigant;Bananier, maraichage et tomate;2,730;41,200;14,00;350,0000;10,0;stable;0,5;100;1100;0,5;1200;150;0,06;III;;;;;;;;
+88;Dichloroprop ou 2,4-DP;Aryloxyacide;Herbicide;;2,734;41,200;14,00;350,0000;19,0;très stable;150;100;26,5;26,5;> 4000;800;0,06;III;;;;;;;;
+89;Dichlorvos;Organophosphoré;Iinsecticide;Tomate et vigne;0,690;50,000;2,00;18000,0000;2,0;instable;0,55;;;0,55;107;56;0,004;1b;;;;;;;;
+90;Diclofopméthyl;Aryloxyacide;Herbicide;Betterave à sucre, légumineuse et céréales;0,163;20869,000;0,31;0,3900;75,0;stable;0,24;0,23;1,5;0,23;180;565;0,001;III;-;B08-0-001;ILLOXAN 36 CE;EC;C;360 g/l;Désherbage;3 l/ha
+91;Dicofol;Organochloré;Acaricide;Agrumes, arbres fruitiers, maraichage;0,359;6064,000;45,00;0,8000;80,0;instable;0,51;0,14;0,075;0,075;2100;809;0,025;III;15 j;B02-7-002;CALLIFOL;EC;C;480 g/l;Parties aériennes;100 cc/hl
+92;Dicrotophos;;Insecticide, Acaricide;;3,080;75,000;28,00;1000000,0000;;;;;;;224;17;;1b;;;;;;;;
+93;Difénacoum;Antivitamine K;Raticide;;-3,260;170700,000;439,00;1,7000;290,0;très stable;0,1;0,52;2,5;0,1;1000;1,8;;1a;;;;;;;;
+94;Difénoconazole;Triazole;Fongicide;Maraichage, betterave à sucre, céréales et semences;0,900;3760,000;130,00;15,0000;85,0;instable;0,81;0,77;1,2;0,77;> 2010;1453;0,01;III;7 j;E05-8-004;DIFCOR 250 EC;EC;C;250 g/l;Parties aériennes;50 cc/hl
+95;Diflubenzuron;Benzoylurée;Insecticide;Arbres fruitiers, olivier, plantes aromatiques, ornementales et cotonier;0,169;4620,000;3,20;0,0800;31,5;très stable;100;7,1;;7,1;> 2000;4640;0,02;III;30 j;B07-0-001;DIMILIN ODC 45;EC;C;480 g/l;Parties aériennes;40 g/hl
+96;Diflufénicanil;Amide;Herbicide;Olivier;1,510;1996,000;141,80;0,0500;315,0;stable;0,109;0,24;0,00244;0,00244;2000;2000;0,2;III;;;;;;;;
+97;Diméthoate;Organophosphoré;Insecticide;Olivier, plantes ornementales et cotonnier;1,057;28,300;2,60;39800,0000;7,2;très stable;30,2;2;90,4;2,0000;> 800;150;0,002;II;30 j;E11-8-005;DANADIM PROGRESS;EC;A;400 g/l;Parties aériennes;100 cc/hl
+98;Diméthomorphe;Acide carboxylique;Fongicide;Vigne, pomme de terre et tomate;2,560;348,000;56,70;28,9500;42,1;très stable;3,4;10,6;;3,4000;> 5000;4300;0,05;III;30 j;D07-7-001;ACROBAT MZ WP;WP;C;9%;Parties aériennes;2,5 kg/ha
+99;Diniconazole;Triazole;Fongicide;;3,195;1000,000;1566,00;4,0000;1566,0;très stable;1,58;7,4;;1,5800;> 5000;639;0,05;III;;;;;;;;
+100;Dinocap;Phénol;Fongicide;Vigne, carotte, tomate, rosier, melon et pommier;-0,830;58245,000;12,00;0,1830;6,1;instable;0,0053;0,0042;0,32;0,0042;> 4700;980;0,0005;III;21 j;D06-4-003;AGRIKAR LC;EC;C;350 g/l;Parties aériennes;0,6 l/ha
+101;Diquat;Ammonium quaternaire;Herbicide;;-6,850;1078792,000;2345,00;718000,0000;3184,2;très stable;6,1;1,2;0,011;0,011;> 2000;231;0,002;II;;;;;;;;
+102;Dodine;Guanidine;Fongicide;Olivier et pommier;-1,790;4236500,000;4,80;930,0000;13,3;très stable;0,57;0,018;0,013;0,013;> 150;1000;0,01;III;28 j;E02-7-004;SYLLIT 400 SC;SC;C;400 g/l;Parties aériennes;175 cc/hl
+103;Emamectin benzoate;;Insecticide;Concombre, tomate, haricot, pommier, melon et plante aromatique;-3,374;283000,000;42,00;95,0000;;;;;;;> 2000;53;0,025;III;7 j;E05-5-002;PROCLAIM 05 SG;SG;C;5%;Parties aériennes;250 g/ha
+104;Epoxiconazole;Triazole;Fongicide;Betterave à sucre et céréales;2,282;1073,000;226,00;7,1000;116,8;très stable;0,5;1,8;0,024;0,024;> 2000;5000;0,005;;28 j;E02-9-005;BACHLOR 125 SC;SC;C;125 g/l;Parties aériennes;0,75 l/ha
+105;Es-fenvalerate;Pyréthrinoïde;Insecticide;Betterave à sucre, tomate, luzerne, pommier et fraisier;-2,555;251717,000;66,60;0,0010;;très stable;0,001;0,009;0,065;0,001;> 5000;75;0,007;II;30 j;D03-1-001;SUMI ALPHA 2,5 EC;EC;C;2,5%;Parties aériennes;100 cc/hl
+106;Ethofumesate;Benzofurane;Herbicide;Betterave à sucre;2,573;118,000;21,60;50,0000;56,0;très stable;11;14;3,9;3,9;> 1440;6400;0,3;III;-;E06-3-001;TRAMAT COMBI SC;SC;C;(300 + 120)g/l;Désherbage;3 l/ha
+107;Ethoprophos;Organophosphoré;Nématicide;Agrumes, bananier, légumineuse, haricot, melon et tomate;2,405;111,000;17,00;1300,0000;16,5;stable;0,32;0,2;2,4;0,2;26;62;0,0003;1a;60 j;1023;MOCAP 10 G;GR;C;300 g/l;Traitement des sols;100 kg/ha
+108;Etofenprox;Diphényl-éther;Insecticide;Arboriculture, pastèque et tomate;-0,300;17757,000;16,00;0,0225;6,0;stable;0,0027;0,0012;0,15;0,0012;> 2140;42880;0,03;III;14 j;E11-9-056;SINSOA;EC;;;Parties aériennes;100 cc/ha
+109;Etoxazole;Oxazole;Acaricide;arboriculture, pastèque et fraisier;0,250;6650,000;26,60;0,0700;7,3;très stable;1,4;0,0071;10;0,0071;> 2000;> 5000;0,04;;14 j;E10-2-006;BAROQUE 10 SC;SC;C;10%;Parties aériennes;25 cc/hl
+110;Famoxadone;Oxazolidine;Fongicide;Maraichage et vigne;1,350;1455,000;41,10;0,0590;21,0;instable;0,011;0,012;0,022;0,011;> 2000;> 5000;0,08;;;;;;;;;
+111;Fénamidone;Imidazolinone;Fongicide;Mraichage et vigne;1,180;388,000;6,90;7,8000;8,5;très stable;0,74;0,053;3,84;0,053;< 2000;2028;0,028;;3 j;E01-4-010;VERITA FLASH;WG;C;(44,4 + 667)g/kg;Parties aériennes;1,5 kg/ha
+112;Fénarimol;Pyrimidine;Fongicide;Arboriculture, fraisier, vigne, melon,tomate et gazon;3,229;734,000;703,00;13,7000;74,0;stable;4,1;6,8;1,48;1,48;> 2000;2500;0,01;III;14 j;A12-8-029;RUBIGAN 12 EC;EC;C;120 g/l;Parties aériennes;35 cc/hl
+113;Fenbuconazole;Triazole;Fongicide;Cucurbitacées et tomate;0,773;4425,000;152,00;2,4700;52,0;très stable;0,68;2,2;0,29;0,29;> 5000;2000;0,03;;20 j;D03-9-006;INDAR 5 EC;EC;C;50 g/l;Parties aériennes;200 cc/hl
+114;Fenbutatin oxyde;Organostannane;Acaricide;Aubergine et tomate;-2,964;139404,000;389,00;0,0150;109,0;très stable;0,0104;0,02;12;0,0104;> 1000;2631;0,025;III;3 j;D06-8-001;TORQUE S;EC;C;500 g/l;Parties aériennes;90 cc/hl
+115;Fenhexamid;Hydroxyanilide;Fongicide;Fraisier, haricot, pecher, tomate et vigne;-0,420;733,500;0,43;24,0000;;très stable;1,34;0,101;2,34;0,101;> 5000;5000;0,2;III;7 j;E01-1-005;TELDOR 50 WG;WG;C;500 g/kg;Parties aériennes;150 g/hl
+116;Fenoxaprop-P-éthyl;Aryloxyacide;Herbicide;Céréales: Blés;0,020;11354,000;23,20;0,7000;1,3;instable;0,19;0,556;0,3;0,19;> 2000;3150;0,01;;10;E07-9-033;CORDON;EC;C;69 g/l;Désherbage;1 l/ha
+117;Fenoxycarbe;Carbamate;Insecticide;;0,140;1816,000;1,55;7,9000;24,3;très stable;1,6;0,0004;1,1;0,0004;> 2000;> 10000;0,05;III;;;;;;;;
+118;Fenpropathrine;Pyréthrinoïde;Insecticide, acaricide;;-0,820;35660,000;31,00;0,3300;28,0;très stable;0,0023;0,00053;2;0,00053;2000;66;0,01;II;21;;;;;;;
+119;Fenpropimorphe;Morpholine;Fongicide;;0,460;4382,000;19,60;4,3200;23,2;très stable;1,74;2,24;0,327;0,327;> 4000;1467;0,003;III;21;;;;;;;
+120;Fenpyroximate;Pyrazole;Acaricide;;-1,000;52067,000;24,50;0,0230;11,9;très stable;0,001;0,003;10;0,001;1000;70,6;0,03;II;42;;;;;;;
+121;Fenthion ;Organophosphoré;Insecticide;Agrumes, betterave à sucre, olivier, poirier et pommier;1,260;1500,000;34,00;4,2000;22,0;stable;0,8;0,0057;1,79;0,0057;800;250;0,007;II;15 j;827;LEBAYCID 50 EC;EC;A;500 g/l;Parties aériennes;0,3-0,5 l/ha
+122;Fentine;Organostannane;Fongicide;Betterave à sucre et pomme de terre;0,720;3104,000;26,00;1,0000;75,0;stable;0,05;0,0165;0,0000024;0,0000024;450;125;0,0005;II;30 j;D06-8-002;>ERTIN 4 L;EC;C;480 g/l;Parties aériennes;200 cc/hl
+123;Fenvalérate;Pyréthrinoïde;Acaricide;;0,520;5273,000;77,00;0,0010;40,0;très stable;0,0036;0,00003;50;0,00003;2500;450;0,02;II;;;;;;;;
+124;Fipronil;Pyrazole;Insecticide;;2,450;727,000;142,00;3,7800;64,7;instable;0,0852;0,0129;0,068;0,0129;97;0,0002;0,0002;II;;;;;;;;
+125;Flocoumafène;Antivitamine K;Raticide;Locaux de stockage;2,040;1345,000;447,00;1,1000;217,0;très stable;0,091;0,66;1,1;0,091;< 3;0,25;0,0005;;-;E07-5-008;STORM BAIT BLOCK;BB;A;0,005%;Dératisation;Appât empoisonné
+126;Florasulam;Sulfonamide;Herbicide;Céréales;0,720;20,370;1,85;6360,0000;8,5;très stable;100;292;0,00118;0,00118;> 2000;> 5000;0,05;III;;;;;;;;
+127;Fluazifop-P-butyl;Aryloxyacide;Herbicide;Betterave à sucre, maraichage, agrume arbre fruitier et légumineuse;0,000;5800,000;78,00;1,1000;19,3;très stable;1,31;1;1,8;1;> 2000;3680;0,01;III;28 j;E08-4-002;FUSILADE FORTE;EC;C;150 g/l;Désherbage;0,75 l/ha
+128;Fluazinam;Pyridinamine;Fongicide;Pomme de terre;1,320;1958,000;72,50;0,1350;16,4;instable;0,036;0,22;0,16;0,036;> 2000;5000;0,01;;7 j;E11-9-085;NANDO;SC;C;500 g/l;Parties aériennes;0,4 l/ha
+129;Flubendiamide;;Insecticide;Pommier et tomate;3,980;334,000;500,00;0,0290;;;;;;;sans effet;> 5000;;;14 j;E12-9-002;TAKUMI 20 WG;WG;C;200 g/kg;Parties aériennes;25 g/hl
+130;Flucarbazone sodium;;Herbicide;Céréales: Blés;3,320;20,000;17,00;44000,0000;;;;;;;> 500;> 5000;0,01;;60 j;E11-7-052;EVEREST 70 WG;WG;C;70%;Désherbage;43 g/ha + Adjuvant- Herbicides
+131;Fludioxonil;Pyrrole;Fongicide;Agrumes;-2,670;132100,000;239,00;1,8000;18,8;très stable;0,23;0,4;0,092;0,092;> 2000;> 5000;0,033;III;;;;;;;;
+132;Flufénoxuron;Benzoylurée;Insecticide- Acaricide;Agrumes, haricot vert et pommier;-3,140;486092,000;72,50;0,0043;42,0;très stable;0,0049;0,00004;0,64;0,00004;> 2000;> 3000;0,01;III;45 j;D03-6-002;CASCADE 100 DC;DC;C;100 g/l;Parties aériennes;"15 cc/hl + 1 l/ha
+CITROLE BM"
+133;Flufenzine;;Acaricide;Pommier;2,464;476,000;73,00;0,2300;;;;;;;> 2000;> 3000;;III;45 j;E01-2-002;FLUMITE 200;EC;C;200 g/l;Parties aériennes;50 cc/hl
+134;Flumetsulam;;Herbicide;Céréales d'automne;4,220;28,000;45,00;5650,0000;;;;;;;> 2000;> 5000;;;-;E01-0-002;DERBY 175 SC;SC;C;100 g/l;Désherbage;50 cc/ha
+135;Fluquinconazole;Triazole;Fongicide;;2,690;829,000;21,90;1,1500;175,0;instable;1,34;5;0,014;0,014;2697;112;0,005;;;;;;;;;
+136;Fluopicolide;Benzamide ;Fongicide;Courgette et melon;3,630;321,100;271,00;2,8000;333,0;stable;;;;;> 2500;> 2500;0,29;;;;;;;;;
+137;Fluopyram;;;Céréales;3,870;278,900;309,00;16,0000;;;;;;;> 2000;> 2000;0,01;;;;;;;;;
+138;Flusilazole;Triazole;Fongicide;Pommier et vigne;2,050;1664,000;427,00;41,9000;94,0;stable;1,2;3,4;6,4;1,2;> 2000;1100;0,001;III;30 j;D11-6-002;OLYMP 10 EW;EW;C;100 g/l;Parties aériennes;30 cc/hl
+139;Flutriafol;Triazole;Fongicide;Betterave à sucre et céréales;5,400;205,000;1587,00;95,0000;1000,0;stable;33;67;1,9;1,9;> 2000;1140;0,01;III;50 j;D08-1-002;IMPACT RM;SC;C;117,5 g/l;Parties aériennes;0,25 l/ha
+140;Folpel;Phthalimide;Fongicide;Tomate et vigne;1,020;304,000;0,05;0,8000;3,0;instable;0,098;0,68;10;0,098;> 4500;> 9000;0,1;IV;28 j;D12-8-008;FOLTAX 50 WP;WP;C;50%;Parties aériennes;250 g/hl
+141;Formothion;Organothiophosphate;Insecticide;;3,070;21,000;14,00;2600,0000;14,0;instable;38,3;16,1;42,3;16,1;> 1000;365;0,2;II;21j;;;;;;;
+142;Fosthiazate;Organophosphoré;Nématicide;Bananier;3,840;59,000;53,00;9000,0000;13,0;très stable;114;0,282;4,51;0,282;> 2400;73;0,004;;70 j;E12-7-003;NEMATHORIN 10 G;GR;A;10%;Traitement des sols;20 g/Pied
+143;Glufosinate Ammonium;Acide aminé;Herbicide;Agrumes, arbre fruitier, olivier et canne à sucre;1,060;600,000;7,40;500000,0000;23,0;très stable;710;668;5;5;> 4000;2000;0,02;III;-;D04-3-003;BASTA F1;SC;C;150 g/l;Désherbage;3 l/ha
+144;Glyphosate;Acide aminé;Herbicide;Agrumes, arbre fruitier, vigne fève et;-0,250;16331,000;15,00;10500,0000;31,5;très stable;38;40;15;15;> 5000;4320;0,05;III;-;F06-0-031;GLYFO TDI;SL;C;360 g/l;Parties aériennes;3 l/ha
+145;Guazatine;Guanidine;Fongicide;Agrumes: Fruits;-0,190;14152,000;18,00;6000000,0000;600,0;stable;0,42;0,15;13,5;0,15;1176;360;0,03;II;NR;B09-8-002;KENOPEL;EC;C;200 g/l;"Traitement de post
+récolte";1000 ppm/t
+146;Haloxyfop-R-méthyl ester;Aryloxyacide;Herbicide;Betterave à sucre;0,722;5497,960;0,50;7,9000;1,0;instable;1,18;4,64;;1,18;> 2000;300;0,0003;II;14;D01-4-002;GALLANT >ER;EC;C;100 g/l;Désherbage;0,5 l/ha
+147;Hepténophos;Organophosphoré;Insecticide;;0,260;163,000;1,40;2200,0000;1,4;instable;0,056;0,0022;35;0,0022;2925;95;0,003;1b;10;;;;;;;
+148;Hexaconazole;Triazole;Fongicide;Maraichage, vigne et arboriculture;2,050;1040,000;;18,0000;225,0;stable;5,94;2,9;1,7;1,7;> 2000;2189;0,005;III;15 j;B12-7-005;ANVIL 5 SC;SC;C;50 g/l;Parties aériennes;0,8 l/ha
+149;Hexaflumuron;Benzoylurée;Insecticide;;-0,030;10391,000;57,00;0,0270;170,0;stable;100;0,0001;3,2;0,0001;> 5000;> 5000;0,005;III;;;;;;;;
+150;Hexythiazox;Thiazolidinone;Acaricide;Agrumes, arbre fruitier et vigne;0,030;9455,000;23,70;0,1000;19,0;très stable;3,2;0,72;250;0,72;> 5000;> 5000;0,03;III;40 j;E11-7-038;DIABLO;WP;C;10%;Parties aériennes;50 g/hl
+151;Hydrazide matéique;Pyridazine;Régulateur de croissance;;-0,706;45,150;;110000,0000;5,8;très stable;1000;1000;100;100;> 5000;5000;0,3;IV;;;;;;;;
+152;Hyméxazol;Isoxazolone;Fongicide;Poivron, melon, pastèque et tomate;2,630;56,500;14,80;65100,0000;5,6;stable;165;28;32;28;> 2000;4678;;III;NR;D01-6-001;TACHIGAREN 30 L;SL;C;300 g/l;Traitement des sols;"200 cc/hl; 1-2 l/ha par injection (goutte à goutte)"
+153;Imazalil;Imidazole;Fongicide;Agrumes: Fruits et tomate;0,610;4753,000;76,30;184,0000;5,0;très stable;1,48;3,5;0,87;0,87;4200;227;0,03;II;NR;E02-9-009;FRUITFOG-I;FD;C;500 g/l;"Traitement de post
+récolte";600 g/25 t
+154;Imazaméthabenz-méthyl;Imidazolinone;Herbicide;;4,110;35,000;47,00;1114,0000;47,0;très stable;280;220;127;127;> 2000;> 5000;0,06;III;45;;;;;;;
+155;Imazapyr;Imidazolinone;Herbicide;;1,980;125,000;11,00;9740,0000;11,0;stable;100;100;7,1;71;> 2000;> 5000;;IV;;;;;;;;
+156;Imidaclopride;Néonicotinoide;Insecticide;Agrumes, arboriculture, maraichage;3,740;225,000;187,00;610,0000;174,0;très stable;211;32;10;10;> 5000;450;0,057;II;21 j;E11-4-011;IMAXI 200 SL;SL;C;200 g/l;Parties aériennes;50 cc/hl
+157;Iminoctadine Tris;;Fongicide;Melon, pommier et tomate;-2,690;214453,000;105,00;6000,0000;;;;;;;> 2000;1400;;;14 j;E07-2-015;BELLKUTE WP;WP;C;40%;Parties aériennes;50 g/hl
+158;Indoxacarbe;Oxadiazine;Insecticide;Betterave à sucre, maraichage, pommier, mais et luzerne;0,130;6450,000;5,00;0,2000;19,5;stable;0,6;0,6;0,11;0,11;> 5000;1750;0,03;;7 j;E02-7-022;AVAUNT 150 EC;EC;C;150 g/l;Parties aériennes;250 cc/ha
+159;Iprodione;Dicarboximide;Nématicide;Tomate, pecher, vigne, laitue, haricot vert, prunier et fraisier;0,580;3927,000;26,20;6,8000;84,0;instable;3,1;0,66;1,8;0,66;> 2000;3500;0,06;III;21 j;E11-8-065;DEVGUARD 500 SC;SC;C;500 g/l;Parties aériennes;5 l/ha (x2)
+160;Iprovalicarbe;Carbamate;Fongicide;Pomme de terre;2,017;106,000;10,50;17,8000;15,5;stable;22,7;19,8;10;10;> 5000;> 5000;0,015;;7 j;E02-9-006;POSITRON 49 WG;WG;C;84 g/kg;Parties aériennes;175 cc/hl
+161;Isazophos;Organothiophosphate;Nématicide;;2,770;155,000;34,00;69,0000;40,0;stable;0,006;0,5;33;0,006;70;20;0,01;1b;;;;;;;;
+162;Isoxaflutole;Isoxazole;Herbicide;Maïs;-0,100;79,800;0,90;6,2000;1,3;instable;1,7;1,5;0,12;0,12;> 2000;> 5000;0,02;III;42j;E05-1-001;MERLIN 750 WG;WG;C;750 g/kg;Désherbage;130 g/ha
+163;Krésoxim-méthyl;Strobilurine;Fongicide;Fraisier, vigne, arboriculture et tomat;-0,090;308,000;0,87;2,0000;13,5;stable;0,15;0,186;0,024;0,024;> 2000;su 5000;0,4;;35 j;E11-7-006;ALLIAGE;WG;C;500 g/kg;Parties aériennes;20 g/hl
+164;Lambda-cyhalothrine;Pyréthrinoïde;Insecticide;Toutes cultures;-3,280;290311,000;175,00;0,0050;23,0;instable;0,00021;0,00036;0,3;0,00021;1293;79;0,02;II;21 j;E11-9-038;AFRATRIN;EC;C;100 g/l;Parties aériennes;50 g/hl
+165;Lenacile;Uracile;Herbicide;Betterave à sucre et épinard;2,180;130,000;14,40;2,9000;92,5;stable;10;8,4;0,015;0,015;> 5000;10000;0,14;III;180j;215;VENZAR;WP;C;80%;Désherbage;0,4-0,8 kg/ha
+166;Linuron;Urée;Herbicide;Carotte, pomme de terre et asperge;2,210;559,000;57,60;63,8000;47,5;très stable;3,15;0,31;0,016;0,016;> 2000;1500;0,008;III;90 j;D10-3-003;AFALON 50 L;SC;C;450 g/l;Désherbage;1,65 l/ha
+167;Lufénuron;Benzoylurée;Insecticide;Agrumes et tomate;-0,810;41182,000;20,80;0,0460;24,5;très stable;29;0,0013;10;0,0013;> 2000;> 2000;0,01;III;18j;E05-8-014;ADRESS RBO3;RB;C;3%;Parties aériennes;20 pièges/ha
+168;Malathion;Organophosphoré;Insecticide;Céréales stockées, maraichage, betterave, arboriculture, olivier, légumineuse et agrume;-1,280;217,000;0,17;148,0000;1,0;instable;0,022;0,00072;4,1;0,00072;4100;2800;0,3;III;8j;B01-7-002;MALAPOUDRE;DP;A;500 g/l;"Traitement des
+denrées stockées";50 g/q
+169;Mandipropamid;;Fongicide;;1,810;847,000;49,10;4,2000;17,0;instable;;;;;;8350;0,85;;;;;;;;;
+170;Mancozèbe;Thiocarbamate;Fongicide;Toutes cultures;-1,000;998,000;0,10;6,2000;60,0;instable;0,074;0,073;0,044;0,044;> 10000;> 5000;0,03;III;30 j;E11-6-003;AGREZATE;WP;C;75%;Parties aériennes;200 g/hl
+171;Manèbe;Thiocarbamate;Fongicide;Toutes cultures;-0,880;1310,000;0,10;178,0000;7,0;instable;0,16;0,25;0,007;0,007;> 5000;6750;0,03;III;15 j;483;BASANEB;WP;C;80%;Parties aériennes;200 g/hl
+172;Mécarbame;;Insecticide, acaricide;;2,770;160,000;35,00;1000,0000;;;;;;;> 1220;53;0,002;1b;42j;;;;;;;
+173;Mécoprop ou MCPP;Aryloxyacide;Herbicide;;2,290;31,000;8,20;250000,0000;8,2;stable;240;200;237;200;900;930;0,01;III;;;;;;;;
+174;Mécoprop-P ou MCPP-P;Aryloxyacide;Herbicide;;1,600;59,800;5,24;250000,0000;21,0;stable;100;91;16,2;16,2;> 4000;1050;0,01;III;;;;;;;;
+175;Mefenpyr-diéthyl (Safener);;Divers;;1,030;605,000;;20,0000;7,0;stable;2,4;5,9;1,65;1,65;> 4000;> 5000;0,5;;;;;;;;;
+176;Mercaptodiméthur;;Molluscicide;Toutes cultures;2,138;655,000;24,00;25,5000;;;;;;;135;0,03;;III;30 j;1010;MESUROL 4 GR;GR;A;50%;Parties aériennes;3 kg/ha
+177;Mésotrione;Tricétone;Herbicide;;2,690;83,300;19,60;1500,0000;5,0;très stable;120;900;3,5;3,5;> 5000;;0,005;;;;;;;;;
+178;Mesosulfuron-methyl -sodium (safener);Sulfonylurée;Herbicide;Céréales: Blés;3,340;92,000;43,50;483,0000;77,3;très stable;100;100;0,2;0,2;;> 5000;1;;90 j;E02-3-003;ATLANTIS;WG;C;(30 + 6 )g/Kg;Désherbage;500 g/ha
+179;Metalaxyl=méfenoxam;Amide;Fongicide;Vigne;2,790;162,300;36,00;8400,0000;38,7;très stable;100;100;36;36;> 3100;633;0,03;III;28 j;E11-4-015;CYCLO DROP;WP;C;25%;Parties aériennes;120 g/hl
+180;Métaldéhyde;Cyclo-octane;Molluscicide;Toutes cultures;1,500;77,000;5,10;188,0000;4,4;stable;75;78,4;75,9;75;> 5000;283;0,025;II;14 j;E11-8-063;ESCARGOCHE 5;GB;C;5%;Parties aériennes;8 kg/ha
+181;Métamitrone;Triazinone;Herbicide;Betterave à sucre;2,825;122,300;480,00;1030,0000;11,1;très stable;190;6,7;0,4;0,4;> 4000;1200;0,03;III;100 j;F06-1-047;CELMITRON 70 WDG;WG;C;70%;Parties aériennes;2 kg/ha
+182;Métam-sodium;Thiocarbamate;Nématicide- Désinfectant;Sols nus;-5,500;17,800;0,01;578290,0000;7,0;instable;0,175;0,99;0,556;0,175;1300;820;0,001;II;-;E05-6-005;AFROLAND;CS;C;510 g/l;Traitement des sols;600-1200 l/ha
+183;Metconazole;Triazole;Fongicide;Céréales: Blés;1,833;1116,000;42,00;30,0000;133,0;très stable;2,1;4,2;1,7;1,7;> 2000;661;0,002;III;42 j;D12-6-003;CARAMBA 60 SL;SL;C;60 g/l;Parties aériennes;1 l/ha
+184;Méthabenzthiazuron;Urée;Herbicide;;2,720;527,000;135,00;60,0000;130,0;très stable;8,4;2,7;0,119;0,119;> 5000;> 5000;0,05;III;90j;;;;;;;
+185;Méthamidophos;Organophosphoré;"Insecticide-
+Acaricide";Arboriculture et agrume;2,410;1,000;4,00;200000,0000;1,5;instable;25;0,27;178;0,27;122;15,6;0,004;1b;35 j;A11-3-034;TAMARON 400 SL;SL;A;400 g/l;Parties aériennes;150 g/hl
+186;Méthidathion;Organophosphoré;Insecticide;Arboriculture et agrume;1,400;400,000;10,00;240,0000;7,0;instable;0,01;0,0064;22;0,0064;200;25;0,001;1b;45 j;B06-6-004;METHIDAXIDE 40;EC;A;420 g/l;Parties aériennes;150 cc/hl
+187;Méthiocarb;Carbamate;"Insecticide ; Molluscicide";;0,170;660,000;1,40;27,0000;63,5;instable;0,65;0,0077;2,2;0,0077;> 5000;20;0,02;II;;;;;;;;
+188;Méthomyl;Carbamate;Insecticide, acaricide;Arboriculture et maraichage;2,190;25,200;6,97;55000,0000;7,0;stable;0,63;0,017;100;0,017;> 2000;34;0,03;1b;21 j;B02-7-005;JADARME 25 WP;WP;A;200 g/l;Parties aériennes;150 g/hl
+189;Métiram de Zinc;Thiocarbamate;Fongicide;Tomate;-0,161;913,000;0,70;2,0000;7,0;instable;0,39;0,11;0,063;0,063;> 2000;> 10000;0,03;III;15 j;D12-2-001;POLYRAM DF;WG;C;80%;Parties aériennes;200 g/hl
+190;Métosulam;Triazolopyrimidine;Herbicide;;1,620;166,000;8,10;700,0000;25,0;stable;100;100;0,00079;0,00079;> 2000;> 5000;0,02;III;;;;;;;;
+191;Métribuzine;Triazinone;Herbicide;Asperge, pomme de terre, luzerne et tomate ;2,570;37,920;11,50;1165,0000;12,0;très stable;74,6;49;0,02;0,02;> 20000;2000;0,013;III;7 j;E02-7-009;METRIPHAR 70 WG;WG;C;70%;Désherbage;1 Kg/ha
+192;Metsulfuron-méthyl;Sulfonylurée;Herbicide;Céréales: Blés;3,990;12,000;23,20;2790,0000;32,0;stable;150;150;0,045;0,045;;> 5000;0,23;;NR;F06-0-008;DEFT;WG;C;20%;Parties aériennes;30 g/ha
+193;Milbémectine;Biopesticide;"Insecticide-
+Acaricide";Agrumes, melon, fraisier, tomate et arboriculture;0,893;2840,000;2,60;2,6800;8,5;très stable;0,0044;0,011;2;0,0044;> 5000;762;0,03;;14 j;E12-7-009;MILBEKNOCK 1% EC;EC;C;1%;Parties aériennes;50 cc/hl
+194;Monocrotophos;Organophosphoré;Insecticide, acaricide;Agrumes et tomate;2,300;19,000;7,00;818000,0000;30,0;très stable;7;0,023;;0,023;250;18;0,0006;1b;7 j;E04-4-001;AGRI-50;EC;C;1%;Parties aériennes;300 cc/hl
+195;Monolinuron;Urée;Herbicide;;2,890;200,000;50,00;735,0000;60,0;stable;42;32,5;0,001;0,001;> 2000;2250;0,005;III;60j;;;;;;;
+196;Myclobutanil;Triazole;Fongicide;Agrumes: Fruits, fraisier, rosier, pommier, tomate et vigne;3,300;517,000;365,00;132,0000;35,0;instable;2,4;11;1,5;1,5;> 5000;1600;0,03;III;NR;E07-9-023;DECCOTANIL;EC;C;120 g/l;"Traitement de post
+récolte";0,4%
+197;Novaluron;;Insecticide;Tomate;0,020;9598,000;9,00;0,0030;;;;;;;> 2000;5000;;;3 j;D09-9-001;RIMON 10 EC;EC;C;100 g/l;Parties aériennes;25 cc/hl
+198;Nuarimol;Pyrimidine;Fongicide;;4,100;241,000;344,00;26,0000;150,0;très stable;12,1;25;2,5;2,5;> 2000;1250;0,025;III;;;;;;;;
+199;Ofurace;Amide;Fongicide;;3,420;38,000;26,00;146,0000;26,0;instable;29;46;;29;> 5000;3500;0,03;III;;;;;;;;
+200;Orthopenylphenol (OPP);;Fongicide;Agrumes: Fruits;0,879;347,000;4,00;700,0000;;;;;;;> 2000;2980;0,2;;NR;E11-8-007;DECCO-OPP 20;EC;C;100 g/l;"Traitement de post
+récolte";500cc/hl
+201;Oxadiazon;Oxadiazole;Herbicide;Agrumes, ail, oignon, pommier, poirier, riz et vigne;2,400;1294,000;502,00;0,5700;105,0;instable;0,8;2,4;0,0032;0,0032;> 2000;> 5000;0,005;III;-;A06-5-009;FESTIVAL;EC;C;250 g/l;Désherbage;4 l/ha
+202;Oxamyl;Carbamate;Nématicide, acaricide, insecticide;Bananier et maraichage;2,290;16,000;6,60;148100,0000;10,2;instable;3,13;0,319;0,931;0,319;> 2000;3;0,03;1b;30 j;D06-4-001;VYDATE 10 G;GR;A;10%;Traitement des sols;50 kg/ha
+203;Oxycarboxine;Amide;Fongicide;;2,900;65,000;21,20;1400,0000;20,0;stable;19,9;69,1;19;19;> 500;5816;0,15;III;15j;;;;;;;
+204;Oxydéméton-méthyl;Organophosphoré;Insecticide;;0,000;29,000;1,00;1200000,0000;2,7;très stable;17;0,11;100;0,11;;50;0,003;1b;;;;;;;;
+205;Oxyfluorfène;Diphényl-éther;Herbicide;Agrumes, canne à sucre, olivier et vigne;0,260;7566,000;138,00;0,1160;30,0;instable;0,2;0,032;0,00024;0,00024;> 10000;> 5000;0,003;III;60 j;E07-9-027;GOAL 480 SC;SC;C;480 g/l;Désherbage;2 l/ha
+206;Oxyquinoléate de cuivre;;Fongicide;;;;;0,0700;;;;;;;> 2000;4700;0,02;III;;;;;;;;
+207;Paecilomyces fumosoroseus;;Insecticide;Tomate;;;;6360,0000;;;;;;;;;;;-;E10-2-007;PREFERAL;WG;C;20%;Parties aériennes;530 g/ha
+208;Paraquat;Ammonium quaternaire;Herbicide;Agrumes, arboriculture, vigne, luzerne;-7,398;1000000,000;5000,00;620000,0000;4117,5;très stable;19;4,4;0,00023;0,00023;911;150;0,004;II;-;A03-6-030;GRAMOXONE;SL;A;200 g/l;Désherbage;2-4 l/ha
+209;Penconazole;Triazole;Fongicide;Concombre, cornichon, melon, vigne, tomate et courgette;1,360;2205,000;117,00;72,0000;86,0;stable;1,7;7;0,83;0,83;> 3000;2120;0,03;III;3 j;B02-5-001;TOPAS 100 EC;EC;C;100 g/l;Parties aériennes;25 cc/hl
+210;Pendimethaline;Amine;Herbicide;Maïs, arachide, cotonnier, tomate tournesol et poivron;-0,320;13792,000;182,30;0,3300;99,2;stable;0,138;0,28;0,006;0,006;> 5000;1250;0,05;III;;B02-7-006;PROWL;EC;C;330 g/l;Désherbage;4 /ha
+211;Penoxulam;;Herbicide;Riz;3,050;94,000;32,00;408,0000;;;;;;;> 5000;> 5000;0,05;III;-;E08-4-001;RAINBOW;OD;C;25 g/l;Désherbage;1 l/ha
+212;Perméthrine;Pyréthrinoïde;Insecticide;Locaux de stockage;-1,110;100000,000;13,00;0,2000;42,0;stable;0,0125;0,006;0,0125;0,006;> 2000;500;0,05;II;-;E01-6-001;SMASH KILLER CE 10;SL;C;100 g/l;Traitement des locaux de stockage;1 cc/m²
+213;Phenamiphos;Organophosphoré;Nématicide;Agrumes, bananier, melon, tabac, tomate;2,025;341,000;301,00;408,0000;1,8;très stable;0,0093;0,00012;3,8;0,00012;80;6;0,0008;1a;90 j;A11-3-038;NEMACUR 10 G;MG;A;10%;Traitement des sols;30 g/m²
+214;Phenmédiphame;Carbamate;Herbicide;Betterave à sucre;1,650;888,000;37,00;1,8000;15,5;instable;1,7;0,41;0,086;0,086;1000;> 8000;0,03;III;-;948;BETANAL;EC;C;159 g/l;Désherbage;6 l/ha
+215;Phenothiol ou MCPA-thioethyl;;Herbicide;;;74,000;;2,3000;;;;;;;> 1500;790;;III;;;;;;;;
+216;Phenthoate;;Insecticide;Agrumes, pommier et plantes aromatique;1,540;1000,000;35,00;11,0000;;;;;;;2100;270;0,003;II;60 j;D02-4-003;ELSAN 50 EC;EC;C;50%;Parties aériennes;80 cc/hl
+217;Phosalone;Organophosphoré;Insecticide;Arbres fruitiers, betterave à sucre et céréales;0,210;2063,000;2,00;1,4000;2,0;très stable;0,63;0,00074;1,1;0,00074;1500;120;0,02;II;21 j;568;ZOLONE 35 EC;EC;A;350 g/l;Parties aériennes;150 cc/hl
+218;Phosphure d'aluminium;;Insecticide;Denrées stockées;;;;260,0000;;;;;;;> 2000;5800;;I;-;B07-7-001;"FUMITOXIN COMPRIMES
+SPHERIQUES";FT;A;570 g/kg;"Traitement des
+denrées stockées";4-6 cp/m³
+219;Phoxime;Organophosphoré;Insecticide;;0,730;1148,000;6,00;1,5000;6,0;instable;0,22;0,00081;;0,00081;> 1000;> 2000;0,001;II;;;;;;;;
+220;Pinoxaden;;Herbicide;Céréales: Blés;-0,680;349,000;0,34;200,0000;1,0;instable;;;;;> 2000;> 5000;0,1;III;-;E05-8-012;TRAXOS 045 EC;EC;C;"(22,5 + 22,5 +
+6,25)g/l";Désherbage;1 l/ha
+221;Prochloraze;Imidazole;Fongicide;;1,980;1440,000;223,60;26,5000;345,5;stable;;;;;3000;2400;0,01;III;;;;;;;;
+222;Procymidone;Dicarboximide;Fongicide;Fraisier, haricot vert, tomate, pecher et vigne;4,120;378,000;784,50;2,4600;224,0;instable;7,22;1,8;2,6;1,8;> 2500;6800;0,1;III;7 j;B02-2-001;SUMISCLEX;WP;C;50%;Parties aériennes;100 g/hl
+223;Profenofos;Organophosphoré;Insecticide, acaricide;;0,590;2016,000;7,00;28,0000;7,0;instable;0,08;0,5;;0,08;3300;358;0,01;II;;;;;;;;
+224;Prometryne;Triazine;Herbicide;;0,586;4330,000;41,00;33,0000;41,0;stable;2,5;12,7;0,02;0,02;> 2020;> 2000;0,01;III;;;;;;;;
+225;Promachlore;;Herbicide;;1,310;719,000;;722000,0000;;;;;;;> 20000;1800;;III;;;;;;;;
+226;Propamocarbe -Hcl;Carbamate;Fongicide;Concombre, rosier, tomate et pomme de terre;1,840;706,000;39,30;1005000,0000;29,0;très stable;92;100;85;85;> 3000;> 2000;0,1;IV;30 j;D12-1-001;PREVICUR N;SL;C;722 g/l;Traitement des sols;3 cc/m²
+227;Propaquizafop;Ester oxyme glycol;Herbicide;;0,984;2220,000;32,00;0,6300;47,3;stable;0,19;0,24;0,15;0,15;> 2000;> 5000;0,15;III;;;;;;;;
+228;Propargite;Sulfonate;Acaricide;Agrumes, arboriculture, tomate et vigne;-1,310;50491,000;72,20;0,2150;16,2;très stable;0,0404;0,092;1,08;0,0404;4000;2800;0,1;III;21 j;B07-1-005;OMITE 30 WP;WP;C;30%;Parties aériennes;250 g/hl
+229;Propiconazole;Triazole;Fongicide;Céréales: Blés;1,890;955,000;71,80;150,0000;108,4;stable;2,6;10,2;0,093;0,093;4000;1517;0,02;II;40 j;D11-7-008;APACHE 25 EC;EC;C;250 g/l;Parties aériennes;0,5-0,7 l/ha
+230;Propinèbe;Thiocarbamate;Fongicide;Olivier, pomme de terre, tomate, vigne et haricot;1,739;18,000;4,30;10,0000;0,1;instable;0,4;4,7;2,68;0,4;> 5000;> 5000;0,007;III;40j;830;ANTRACOL 70 WP;WP;C;70%;Parties aériennes;250 g/hl
+231;Propyzamide;Amide;Herbicide;Betterave à sucre et vigne;1,340;1626,000;50,50;9,0000;55,5;très stable;4,7;5,6;0,83;0,83;;8350;0,085;;28 j;E12-9-011;TALENDO;EC;C;200 g/l;Parties aériennes;2 kg/ha
+232;Prosulfocarbe;Thiocarbamate;Herbicide;Pomme de terre et blé;0,840;1693,000;12,40;13,2000;9,8;très stable;0,113;1,3;0,113;0,113;> 2000;1820;0,05;III;-;E12-7-012;BOXER;EC;C;800 g/l;Désherbage;5 l/ha
+233;Prosulfuron;Sulfonylurée;Herbicide;;5,110;14,200;62,10;4000,0000;16,4;très stable;160;120;0,0089;0,0089;> 2000;986;0,019;III;;;;;;;;
+234;Prothiofos;;Insecticide;;-0,630;24158,000;45,00;0,0700;;;;;;;> 5000;1569;0,0001;II;;;;;;;;
+235;Protothioconazole;Triazole;Fongicide;;-0,180;2556,000;0,50;300,0000;2,8;stable;1,83;1,3;1,1;1,1;;> 6200;0,05;;;;;;;;;
+236;Pymétrozine;Triazinone;Insecticide;Cornichon, courgette, fraisier, pecher, pommier, poirier et tomate;0,650;1049,000;4,60;270,0000;14,0;très stable;100;87;21,6;21,6;> 2000;5820;0,03;III;3 j;E09-0-003;CHESS 50 WG;WG;C;50%;Parties aériennes;0,4 kg/ha
+237;Pyraclostrobine;Strobilurine;Fongicide;;0,060;9315,000;62,00;1,9000;31,5;stable;0,006;0,016;0,152;0,006;;> 5000;0,04;III;;;;;;;;
+238;Pyraflufen;Pyrazole;Herbicide;;0,793;1949,000;13,10;0,0800;3,0;instable;0,1;0,1;0,00023;0,00023;> 2000;> 5000;0,2;;;;;;;;;
+239;Pyréthre;;Insecticide;;-1,544;100000,000;35,00;0,0010;;;;;;;5000;2370;0,04;II;;;;;;;;
+240;Pyridabène;Pyridazone;Acaricide;Agrumes, arboriculture et tomate;-1,670;66503,000;106,00;0,0220;66,0;stable;0,0029;0,00038;1;0,00038;> 2000;1350;0,01;III;30 j;D04-3-002;NEXTER 200 EC;EC;A;200 g/l;Parties aériennes;55 cc/hl
+241;Pyridaphenthion;Organophosphoré;Insecticide;;0,180;7211,000;18,00;100,0000;18,0;stable;7,5;;;7,5;2300;769;0,0015;III;;;;;;;;
+242;Pyrifénox;Pyridine;Fongicide;;1,840;980,000;66,00;300,0000;66,0;stable;6,6;3,6;0,095;0,095;> 5000;2912;0,1;III;;;;;;;;
+243;Pyriméthanil;Pyrimidine;Fongicide;Fraisier, haricot vert, tomate, pommier, vigne et fraisier;2,650;301,000;55,00;121,0000;34,0;très stable;10,56;2,9;1,2;1,2;> 5000;5971;0,2;III;14 j;D03-7-001;MYTHOS;SC;C;300 g/l;Parties aériennes;250 cc/hl
+244;Pyrimicarbe;Carbamate;Insecticide;Agrume, arboriculture, maraichage et betterave à sucre;2,974;290,000;;2820,0000;65,8;stable;79;0,017;140;0,017;> 500;142;0,02;II;30 j;A02-6-003;PIRIMOR 50 DG;DG;A;50%;Parties aériennes;75 g/hl
+245;Pyrimiphos-méthyl;Organophosphoré;Insecticide;Locaux et denrées stockées;1,525;1100,000;117,00;8,1500;39,0;très stable;0,2;0,00021;1;0,00021;> 2000;1415;0,03;III;-;A12-5-017;ACTELLIC 50 EC;EC;C;500 g/l;"Traitement des
+denrées stockées";20 cc/t
+246;Pyriproxyfène;Diphényl-éther;Insecticide;Agrumes, tomate, povron, vigne;-0,270;21175,000;6,70;0,3700;9,6;très stable;0,27;0,4;0,094;0,094;> 2000;5000;0,004;III;30 j;D05-7-001;ADMIRAL 10 EC;EC;C;100 g/l;Parties aériennes;25 cc/hl
+247;Quinoxyfen;Quinoléine;Fongicide;Melon;-0,930;22929,000;374,00;0,0470;89,2;très stable;0,27;0,08;0,027;0,027;> 2000;5000;0,2;III;14 j;E01-0-001;ABIR 250 SC;SC;C;250 g/l;Parties aériennes;30 cc/hl
+248;Quizalofop-P-ethyl;Aryloxyacide;Herbicide;Betterave à sucre, maraichage et légumineuse;-0,290;1816,000;0,40;0,6100;4,4;très stable;0,21;0,29;0,069;0,069;;1210;0,009;;75 j;D05-9-003;PANTERA 40 EC;SC;C;40 g/l;Désherbage;0,8-1 l/ha
+249;Rimsulfuron;Sulfonylurée;Herbicide;Maïs et pomme de terre;3,230;47,000;24,30;7300,0000;10,5;instable;390;360;1,2;1,2;> 2000;> 5000;0,016;III;45 j;E07-2-002;TITUS 25 DF;WG;C;25%;Désherbage;60 g/ha
+250;Roténone;Biopesticide;Insecticide, acaricide;;0,000;10000,000;1,30;15,0000;2,0;instable;0,0019;0,004;0,6;0,0019;> 1500;;132;II;;;;;;;;
+251;Séthoxydime;Cyclohexanedione;Herbicide;;0,000;75,000;1,00;4700,0000;5,0;très stable;170;1,5;0,64;0,64;> 5000;3200;0,14;III;;;;;;;;
+252;Simazine;Triazine;Herbicide;;2,000;750,000;60,00;5,0000;90,0;très stable;90;1,1;0,04;0,04;> 2000;10000;0,005;III;;;;;;;;
+253;S-métolachlore;Chloroacetamide;Herbicide;Maïs;1,910;226,100;14,50;480,0000;21,0;très stable;1,23;1,4;0,008;0,008;;> 2000;0,1;;-;E02-3-005;DUAL GOLD 960 EC;EC;C;960 g/l;Désherbage;1,5 l/ha
+254;Soufre;Minéral;Fongicide;Toutes cultures;1,049;1950,000;30,00;0,0600;1000,0;stable;180;5000;100;100;> 2000;> 5000;;III;15 j;E04-6-016;CSC 80% THIOSPERSE;WP;C;80%;Parties aériennes;300-500 g/hl
+255;Spinosade;Biopesticide;Insecticide;Céréales: Grains, agrume, poivron, tomate, haricot vert, fraisier;-0,618;34600,000;14,00;235,0000;1,0;très stable;4;1;0,079;0,079;> 2000;3783;0,027;III;NR;E04-6-010;SPINTOR 0.125 D;DP;C;1,25%;"Traitement des
+denrées stockées";75 g/ql
+256;Spiroxamine;Amine;Fongicide;Céréales: Blés;-0,250;14567,000;35,00;405,0000;24,5;très stable;7,13;6,1;0,003;0,003;;> 500;0,025;;35 j;E07-6-005;FALCON 460 EC;EC;C;"(250 + 167 +
+43)g/l";Parties aériennes;0,8 l/ha
+257;Spirotetramat;;Insecticide;Agrumes et vignes;-1,120;281,000;0,19;29,9000;;;;;;;2000;2000;;;;;;;;;;
+258;Strychnine;;Rodenticide;;;7,200;;143,0000;;;;;;;;16;;1b;;;;;;;;
+259;Sulfosate;Acide aminé;Herbicide;;-1,139;24700,000;796,00;3310000,0000;19,7;très stable;1800;12;0,72;0,72;> 2000;748;0,1;III;;;;;;;;
+260;Sulfosulfuron;Sulfonylurée;Herbicide;Céréales: Blés;4,480;33,000;63,80;1627,0000;28,5;très stable;91;96;0,221;0,221;> 5000;> 5000;0,24;III;70 j;D11-9-001;APYROS;WG;C;75%;Désherbage;26,6 g/ha
+261;Tau-Fluvalinate;Pyréthrinoïde;"Insecticide-
+Acaricide";Agrumes, haricot ver, tomate et vigne;-1,890;186000,000;31,00;0,0010;90,8;instable;0,0048;0,00085;10;0,00085;> 2000;261;0,01;II;30 j;D12-0-001;MAVRIK 2F;EC;C;240 g/l;Parties aériennes;15 et 20 cc/hl
+262;Tébuconazole;Triazole;Fongicide;Céréales: Blés, semense, haricot, tomate, et vigne;2,850;769,000;365,00;36,0000;31,0;stable;4,4;2,8;1,96;1,96;> 5000;4000;0,03;III;40 j;D02-5-002;FOLICUR 250 EW;EW;C;250 g/l;Parties aériennes;0,4 l/ha
+263;Tébufénozide;Hydrazide;Insecticide;;1,760;572,000;26,20;0,8300;13,0;très stable;3;3,8;0,21;0,21;> 5000;5000;0,02;III;;;;;;;;
+264;Tébufenpyrad;Amide;Acaricide;Framboisier, poirier, pommier et tomate;0,580;4204,000;33,90;2,3900;4,5;instable;0,0178;0,0402;0,54;0,0178;> 2000;595;0,01;III;14 j;D01-7-002;MASAI;WP;C;20%;Parties aériennes;375 g/ha
+265;Terbutryne;Triazine;Herbicide;;2,400;518,000;74,00;25,0000;52,0;stable;1,1;2,66;0,0024;0,0024;> 10200;2400;0,027;III;;;;;;;;
+266;Tétraconazole;Triazole;Fongicide;Betterave à sucre, curcubitacées, betterave à sucre, tomate, fraisier, vigne, pommier et pecher;1,810;1152,000;83,80;156,6000;60,9;stable;4,3;3;2,4;2,4;> 2000;1248;0,015;II;45 j;D12-3-002;EMERALD 125;ME;C;125 g/l;Parties aériennes;0,5 l/ha
+267;Tetradifon (Tédion);Sulfone ;Acaricide;Concombre, couregette, melon, tomate, pastèque et vigne;4,100;100,000;112,00;0,0780;112,0;stable;880;2;100;2;10000;> 14700;0,0075;III;15 j;D08-0-001;TEDION;EC;C;75,2%;Parties aériennes;150 cc/hl
+268;Tetrathiocarbonate;;Nématicide;Sols nus;;220,000;;2300,0000;;;;;;;> 2000;631;6;;-;D11-7-009;ENZONE;SL;C;400 g/l;Traitement des sols;600 l/ha
+269;Thiabendazole;Benzimidazole;Fongicide;Agrumes: Fruits;2,040;2091,000;1000,00;30,0000;732,0;instable;0,55;0,81;9;0,55;> 2000;3100;0,1;III;NR;E11-3-001;TECTO 500 SC;SC;C;500 g/l;"Traitement de post
+récolte";0,75 l/hl cire
+270;Thiacloprid;Pyridine;Insecticide;Agrumes, arboriculture, laitue, fraisier, haricot vert et plante aromatique;0,140;615,000;1,30;184,0000;15,5;très stable;25,2;85,1;44,7;25,2;;;0,01;;14 j;E01-2-001;CALYPSO 480 SC;SC;C;480 g/l;Parties aériennes;25 cc/hl
+271;Thiamethoxam;Néonicotinoide;Insecticide;Agrumes, tomate, melon et poivron;4,690;56,200;121,00;4100,0000;52,0;très stable;125;100;81,8;81,8;> 2000;1500;0,026;III;28 j;E11-9-036;CALIXAM;WG;C;25%;Parties aériennes;20 g/hl
+272;Thifensulfuron méthyle;Sulfonylurée;Herbicide;Céréales: Blés;0,440;9,000;1,39;54,1000;10,0;très stable;100;470;0,0159;0,0159;> 2000;5000;0,01;III;-;E12-7-011;HARMONY EXTRA;WG;C;(50 + 25)%;Désherbage;20 g/ha
+273;Thiocyclam;;Insecticide;Agrumes et tomate;0,000;20,000;1,00;84000,0000;;;;;;;1000;310;;II;30 j;D02-8-002;EVISECT S;WP;C;50%;Parties aériennes;50 g/hl
+274;Thiométon;Organophosphoré;Insecticide;;0,370;579,000;2,00;200,0000;2,0;instable;3,7;8,2;12,8;3,7;1429;73;0,003;1b;;;;;;;;
+275;Thiophanate méthyle;Thiocarbamate;Fongicide;Toute culture;-0,366;225,000;0,60;20,0000;15,0;instable;0,046;0,011;0,065;0,011;> 10000;> 6000;0,08;III;14 j;E11-9-011;MILTOP;WG;C;70%;Parties aériennes;100 g/hl
+276;Thirame;Thiocarbamate;Fongicide;Toute culture;0,010;9629,000;4,89;18,0000;15,0;instable;0,046;0,011;0,065;0,011;> 1000;560;0,01;III;15 j;942;BASULTRA;WP;C;80%;Parties aériennes;250 g/hl
+277;Tolclofos-méthyle;Organophosphoré;Fongicide;"Pomme de terre:
+semences";0,251;3620,000;97,00;0,7080;15,0;très stable;0,69;48;1,1;0,69;> 5000;5000;0,07;III;NR;D03-9-009;RIZOLEX 50 WP;WP;C;50%;"Traitement des
+semences";1 kg/ql
+278;Tolylfluanide;Sulfamide;Fongicide;Pommier, fraisier et vigne;0,934;2,200;1,80;0,9000;6,0;instable;0,045;0,19;1;0,045;> 5000;> 5000;0,08;III;35 j;E06-5-006;EUPARENE M 50 WG;WG;C;50%;Parties aériennes;150 g/hl
+279;Tralkoxydime;Cyclohexanedione;Herbicide;Céréales: Blés;0,830;102,000;2,60;6,1000;14,0;très stable;1,6;175;5,1;1,6;> 2000;1324;0,005;III;-;D12-8-002;MAJOR 25 SC;SC;C;250 g/l;Désherbage;1 l/ha
+280;Tralométhrine;Pyréthrinoïde;Insecticide;;-2,230;359732,000;27,00;0,0800;3,0;stable;0,0016;0,000038;;0,000038;> 2000;3000;0,0075;II;;;;;;;;
+281;Triadiméfon;Triazole;Fongicide;;1,590;749,000;26,00;70,0000;26,0;stable;4,08;7,16;2,01;2,01;> 5000;1000;0,03;III;;;;;;;;
+282;Triadiménol;Triazole;Fongicide;Pommier, tomate, melon, vigne, blé, fraisier et abricotier;3,340;273,000;136,70;72,0000;64,9;très stable;15;2,5;3,7;2,5;> 5000;700;0,05;III;15 j;B12-7-008;BAYFIDAN 250 EC;EC;C;250 g/l;Parties aériennes;20 cc/hl
+283;Tria-allate;Thiocarbamate;Herbicide;;0,650;4301,000;58,30;4,1000;97,0;stable;1,2;0,091;0,12;0,091;8200;;0,001;III;;;;;;;;
+284;Triasulfuron;Sulfonylurée;Herbicide;Céréales: Blés;5,120;12,800;59,10;815,0000;19,0;très stable;100;100;0,035;0,035;> 2000;> 5000;0,012;III;-;E01-6-002;ARRAT;WG;C;0,25;Désherbage;200 g/ha
+285;Tribénuron-méthyl;Sulfonylurée;Herbicide;Céréales: Blés;2,430;31,600;9,40;2483,0000;10,0;instable;738;894;0,11;0,11;> 2000;> 5000;0,008;III;NR;E11-9-072;DYCOSTAR;WG;C;75%;Parties aériennes;12,5 g/ha
+286;Trichlorfon;Organophosphoré;Insecticide;Agrumes, betterave, olivier, agrume, tomate et arboriculture;3,770;10,000;18,00;120000,0000;18,0;instable;0,7;;10;0,7;> 5000;5250;0,01;III;10 j;B12-3-003;TRICHLORFON 80 PS;EC;A;80%;Parties aériennes;150 g/hl
+287;Triclopyr;Acide carboxylique;"Régulateur de
+croissance";"Agrumes:
+Clémentinier";3,690;48,000;39,00;8100,0000;46,3;stable;117;131;758;117;> 2000;692;0,005;III;45 j;D04-5-001;MAXIM;SP;C;10%;Parties aériennes;1,5 pastilles/hl
+288;Tricyclazole;;Fongicide;Riz;5,340;144,000;795,00;596,0000;;;;;;;;514;;;15 j;E07-6-004;BEAM 75 WP;WP;C;750 g/kg;Parties aériennes;0,3 kg/ha
+289;Tridémorphe;Morpholine;Fongicide;;0,320;6250,000;35,00;1,1000;24,0;stable;3,4;1,3;0,28;0,28;4000;480;0,016;II;;;;;;;;
+290;Triflimizole;;Fongicide;Concombre, melon et vigne;0,960;1373,000;13,00;10,5000;;;;;;;> 5000;715;;III;;;;;;;;
+291;Trifloxystrobine;Strobilurine;Fongicide;Pommier, tomate, fraisier, melon, poivron et vigne;0,190;2377,000;2,00;0,6100;8,6;très stable;0,015;0,011;0,0053;0,0053;> 2000;> 5000;0,05;III;14 j;E10-2-001;FLINT 50 WG;WG;C;50%;Parties aériennes;100 g/hl
+292;Triflumuron;Benzoylurée;Insecticide;;-0,050;11981,000;4,30;0,0400;22,0;très stable;0,9;0,001;25;0,001;> 5000;> 5000;0,0072;III;;;;;;;;
+293;Trifluraline;Amine;Herbicide;;0,130;8765,000;181,00;0,2210;170,0;très stable;0,088;0,245;0,0122;0,0122;> 5000;> 5000;0,024;III;;;;;;;;
+294;Triflusulfuron-méthyle;Sulfonylurée;Herbicide;Betterave à sucre;1,820;58,000;6,50;260,0000;3,0;stable;730;960;0,046;0,046;> 2000;> 5000;0,05;III;90 j;D09-5-001;SAFARI;WP;C;50%;Désherbage;30 g/ha
+295;Triforine;Pipérazine;Fongicide;;1,630;527,000;19,00;9,0000;21,0;instable;1000;25;380;25;> 10000;> 6000;0,02;III;;;;;;;;
+296;Triflumizole;;Fongicide;Concombre;0,960;1373,000;13,00;10,5000;;;;;;;> 2000;5000;0,0125;;20 j;B04-7-001;ARRADARE 3000;WP;C;30%;Parties aériennes;15-25 g/hl
+297;Valiphénal;Acylamino acid ;Fongicide;Pomme de terre;-0,680;735,000;0,25;24,1000;0,3;très stable;;;;;> 2000;> 5000;0,07;III;21 j;E11-8-026;VALIS M;WG;C;(6 + 60)%;Parties aériennes;2,5 l/ha
+298;Zeta-cyperméthrine;Pyréthrinoïde;Insecticide;Betterave à sucre, courgette, haricot vert et tomate;-1,930;121786,000;60,00;0,0390;14,0;instable;0,00069;0,000148;10;0,000148;> 2000;105,5;0,02;1b;30 j;E04-1-005;FURY 100 EW;EW;C;100 g/l;Parties aériennes;200 cc/ha
+299;Zinèbe;Dithiocarbamate;Fongicide;;1,480;1000,000;30,00;10,0000;19,5;instable;20,8;40;0,51;0,51;> 6000;> 5200;0,03;III;;;;;;;;
+300;Zirame;Dithiocarbamate;Fongicide;Arbres fruitiers, légumineuse, plante florale, ornomentale et haricot vert;-0,680;3007,000;0,05;0,9670;6,3;instable;0,00097;0,048;0,066;0,00097;> 2000;2068;0,003;III;28 j;972;BASAFORT;WP;C;90%;Parties aériennes;250 g/hl
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
