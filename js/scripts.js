@@ -60,6 +60,7 @@ $(document).ready(function(){
 			return {
 				delimiter: ";", 
 				header: true,
+				encoding: "ascii",
 				complete: completeFn,
 			};
 		}
